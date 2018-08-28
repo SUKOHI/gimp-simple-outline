@@ -45,5 +45,5 @@
     SF-DRAWABLE "Current Layer" 0
     SF-COLOR "Color" '(0 0 0)
     SF-ADJUSTMENT "Thickness" '(4 1 50 1 10 0 0)
-    SF-ADJUSTMENT "Feather" '(2 1 50 1 10 0 0)
+    SF-ADJUSTMENT "Feather" '(2 0 50 1 10 0 0)
 )
